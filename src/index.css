@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.SU_Section1{
+   background: linear-gradient(120deg,#585657,#67605e,#47575d,#283136);
+   padding: 25px 89px;
+}
+.Hero_hero__title__1zXzr{
+  font-size: 3rem;
+  color: white;
+}
+.Hero_hero__subtitle__1MWmG{
+  font-size: 2.2rem;
+  color: orange;
+}
+Nav.Link{
+  margin-left: 6px;
+}
+.SU_card_outer{
+  display: flex;
+  flex-direction: row;
+  
+}
+.nav-link{
+  margin-left: 10px;
+}
+.card.border-primary {
+  margin: 0px 5px;
+  width: 27rem !important;
+}
+
